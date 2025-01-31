@@ -36,7 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-web&show_icons=true&locale=en&layout=compact" alt="nahid-web" /></p>
 
 
-<! <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahid-web&show_icons=true&locale=en" alt="nahid-web" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahid-web&show_icons=true&locale=en" alt="nahid-web" /></p> -->
 
 
-<! <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-web&" alt="nahid-web" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-web&" alt="nahid-web" /></p> -->
