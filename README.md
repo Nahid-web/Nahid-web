@@ -1,6 +1,6 @@
 # Hi, I'm Nahid Amin! 👋
 
-![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=Nahid-web&show_icons=true&theme=react)
+![Nahid's github stats](https://github-readme-stats.vercel.app/api?username=Nahid-web&show_icons=true&theme=react)
 ## 🚀 About Me
 I'm a Full Stack Flutter Developer 
 
